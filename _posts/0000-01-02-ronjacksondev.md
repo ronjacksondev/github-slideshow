@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our seconds slide!"
 ---
-Your text
+I scream for Ice Cream
 Use the left arrow to go back!
